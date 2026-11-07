@@ -16,7 +16,12 @@ Questions I set out to answer:
 * Which factors influencing attrition? <br>
 * Which employee segments are at greatest risk, so HR can intervene early? <br>
 
-### Insights
+### Insights / findings
+1. Sales Representatives (39.8%) and Recruiters (37.5%) have the highest attrition followed by Data Scientist.
+2. Management and senior technical roles are stable, which tells us the problem sits in front-line and early-career roles rather than leadership. <br>
+
+<img width="367" height="232" alt="image" src="https://github.com/user-attachments/assets/2aa936b1-49ec-447f-9254-eed5c0aad02a" />
+
 
 
 
