@@ -16,17 +16,18 @@ Questions I set out to answer:
 * Which factors influencing attrition? <br>
 * Which employee segments are at greatest risk, so HR can intervene early? <br>
 
-### Insights / findings
-## Roles that have highest attrition: <br>
+## Insights / findings
+### Roles that have highest attrition: <br>
 * Sales Representatives (39.8%) and Recruiters (37.5%) have the highest attrition followed by Data Scientist. <br>
 * Management and senior technical roles are stable, which tells us the problem sits in front-line and early-career roles rather than leadership. <br>
 
 <img width="367" height="232" alt="image" src="https://github.com/user-attachments/assets/2aa936b1-49ec-447f-9254-eed5c0aad02a" />
 
-## Pay is a driver of attrition: <br>
+### Pay is a driver of attrition: <br>
 * The two highest-attrition roles are also the lowest paid: Recruiters average about $37.6K and Sales Representatives about $40.7K. <br>
-
-## Overtime is the strongest single
+<img width="451" height="267" alt="image" src="https://github.com/user-attachments/assets/c6d4af02-2c85-4c36-babc-e92ea27f86f5" />
+<br>
+### Overtime is the strongest single
 * 30.5% attrition driven by overtime versus 10.4% without overtime, which is roughly three times higher. <br>
 * The effect is visible in every high-risk role (attrition without overtime versus with overtime):  <br>
     ◦ Sales Representative: 28.8% vs 66.7%  <br>
@@ -35,7 +36,38 @@ Questions I set out to answer:
     ◦ Sales Executive: 11.2% vs 32.6%  <br>
     ◦ Software Engineer: 7.1% vs 33.7%  <br>
 * Overtime does not just worsen attrition in weak spots; it pushes otherwise moderate roles into high-risk territory suc as Software Engineers, Data Scientists. <br>
+<img width="263" height="274" alt="image" src="https://github.com/user-attachments/assets/fe8dd479-382a-4dbf-b784-11b6fd041a0a" />
+<br>
 
-## Frequent travel adds to the risk
+### Frequent travel adds to the risk
 
+* Even without overtime, frequent travelers attrition rate is more than company average. With overtime, it doubles that average.
+
+<img width="479" height="137" alt="image" src="https://github.com/user-attachments/assets/a0e963ac-83a1-4b73-ac8c-4f32eed84ee3" />
+ <br>
+
+ ### Early tenure is danger zone
+
+* We are losing people in year 0 and 1 (early years). That points on onboarding, role expectations, manager quality or early career growth. <br>
+* After initial years, trends go downwards, reaching about 5% by year 8 and 0.8% by year 10. There is a secondary bump at year 5 (17.4%) 
+ 
+<img width="560" height="258" alt="image" src="https://github.com/user-attachments/assets/4aea0b36-81ea-4e42-a071-ab9b40ec9678" />
+<br>
+
+### job satisfaction does not explain attrition
+
+<img width="399" height="227" alt="image" src="https://github.com/user-attachments/assets/a4d50b9e-f172-41fb-9adb-86b9c50fa46c" />
+
+<br>
+
+### Deep-Dive: Sales Representative & recruiters
+
+* **Sales Representatives**: 83 employees, 39.8% attrition, average salary $40.7K, average 2.78 years since last promotion. Frequent travelers on overtime (7 employees) all left. Those with some travel and overtime left at 52.9%.
+* **Recruiters**: 24 employees, 37.5% attrition, average salary $37.6K, average 2.92 years since last promotion.
+* Both roles combine low pay, long gaps since promotion (nearly 3 years) and, for many, overtime or travel
+
+<img width="632" height="139" alt="image" src="https://github.com/user-attachments/assets/4ed13187-f1f0-4d0b-bf82-6e71a66835e7" />
+
+<br>
+<img width="569" height="130" alt="image" src="https://github.com/user-attachments/assets/7e434a06-5d26-4e29-94a2-102f81631224" />
 
