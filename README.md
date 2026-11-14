@@ -52,7 +52,7 @@ Questions I set out to answer:
  ### Early tenure is danger zone
 
 * We are losing people in year 0 and 1 (early years). That points on onboarding, role expectations, manager quality or early career growth. <br>
-* After initial years, trends go downwards, reaching about 5% by year 8 and 0.8% by year 10. There is a secondary bump at year 5 (17.4%) 
+* Attrition then trends downward overall, reaching about 5% by year 8 and 0.8% by year 10. Year 5 shows a small rise (17.4%) against its neighbors, which may reflect a promotion or career-stage decision point, but this needs checking against headcount before drawing conclusions. 
  
 <img width="560" height="258" alt="image" src="https://github.com/user-attachments/assets/4aea0b36-81ea-4e42-a071-ab9b40ec9678" />
 <br>
@@ -73,4 +73,17 @@ Questions I set out to answer:
 
 <br>
 <img width="569" height="130" alt="image" src="https://github.com/user-attachments/assets/7e434a06-5d26-4e29-94a2-102f81631224" />
+
+## Mean for Business
+
+* We are losing people in roles that are hard to staff and where the ramp-up is slow. Sales Rep and Recruiter exits hurt revenue and our own hiring pipeline. Data Scientist exits are costly to replace.
+* Workload, not satisfaction, is the early-warning signal. Overtime and travel can be monitored monthly, unlike annual survey scores.
+
+## Recommendation
+* Benchmark pay against market and adjust where we are materially below.
+* Review promotion and career path timing for roles averaging nearly 3 years without promotion
+* Limit combined overtime + frequent travel; rotate travel and add recovery time
+
+
+
 
