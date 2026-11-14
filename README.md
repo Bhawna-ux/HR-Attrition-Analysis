@@ -27,7 +27,9 @@ Questions I set out to answer:
 * The two highest-attrition roles are also the lowest paid: Recruiters average about $37.6K and Sales Representatives about $40.7K. <br>
 <img width="451" height="267" alt="image" src="https://github.com/user-attachments/assets/c6d4af02-2c85-4c36-babc-e92ea27f86f5" />
 <br>
+
 ### Overtime is the strongest single
+
 * 30.5% attrition driven by overtime versus 10.4% without overtime, which is roughly three times higher. <br>
 * The effect is visible in every high-risk role (attrition without overtime versus with overtime):  <br>
     ◦ Sales Representative: 28.8% vs 66.7%  <br>
@@ -35,7 +37,8 @@ Questions I set out to answer:
     ◦ Data Scientist: 15.7% vs 49.2%  <br>
     ◦ Sales Executive: 11.2% vs 32.6%  <br>
     ◦ Software Engineer: 7.1% vs 33.7%  <br>
-* Overtime does not just worsen attrition in weak spots; it pushes otherwise moderate roles into high-risk territory suc as Software Engineers, Data Scientists. <br>
+* Overtime does not just worsen attrition in weak spots; it pushes otherwise moderate roles into high-risk territory suc as Software Engineers, Data Scientists.
+<br> <br>
 <img width="263" height="274" alt="image" src="https://github.com/user-attachments/assets/fe8dd479-382a-4dbf-b784-11b6fd041a0a" />
 <br>
 
